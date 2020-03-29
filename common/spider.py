@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- 
 
 """
- @auchor   henryWoo
+ @author   henryWoo
  @date     2020-03-28 21:04
  
  @file     spider.py
